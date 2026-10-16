@@ -1,13 +1,13 @@
-package com.example.SecureWebSystem;
+package com.example.risk;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 
 @SpringBootApplication
-public class SecureWebSystemApplication {
+public class Risk {
 
 	public static void main(String[] args) {
-		SpringApplication.run(SecureWebSystemApplication.class, args);
+		SpringApplication.run(Risk.class, args);
 	}
 
 }
